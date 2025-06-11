@@ -18,8 +18,11 @@ This project demonstrates an AI pipeline that generates natural language caption
 
 MyDrive/
 ├── caption_videos_colab.ipynb # Main Google Colab notebook
+
 ├── captions_output_sample.txt # Captions generated for 10 videos
+
 ├── README.md # This file
+
 └── video_samples/ # Folder to store video files (not uploaded)
 
 ---
